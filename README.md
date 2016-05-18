@@ -1,7 +1,7 @@
 #Systen Requirments
 - Laravel 5.0 and Homestead installed.
 - mysql, php5 installed.  
-
+- latest version of a web browser.
 
 #How To run
 -Open terminal. Run following command:
@@ -19,7 +19,9 @@
             - use homestead
             - show tables ;
             - describe ifsc_details;
-             
+#How to use
+-To test the API you need to install a debugger for RESTful web services like POSTMAN for chrome. 
+-Using debugger you can make querries for bank details.               
    
  
 
